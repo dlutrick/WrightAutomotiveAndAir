@@ -1,0 +1,31 @@
+body {
+  padding-top: 56px;
+  background-image: linear-gradient(
+      rgba(47, 23, 15, 0.65),
+      rgba(47, 23, 15, 0.65)
+    ),
+    url(/img/mechanicbg.jpeg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+#left-box {
+  float: left;
+}
+#middle-box {
+  float: left;
+}
+#right-box {
+  float: right;
+}
+
+#promotion-header {
+  font-size: 1.5em;
+  color: greenyellow;
+  padding-top: 50px;
+}
+
+#form-id {
+  padding-top: 40px;
+}
