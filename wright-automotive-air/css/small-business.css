@@ -29,3 +29,8 @@ body {
 #form-id {
   padding-top: 40px;
 }
+
+.photo-size {
+  width: 500px;
+  height: 500px;
+}
